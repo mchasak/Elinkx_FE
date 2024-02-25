@@ -30,7 +30,7 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result, or you can create Docker image the same way as you did with backend and run it from Docker.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
