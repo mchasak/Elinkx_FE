@@ -2,7 +2,13 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, fork the backend side of the project and install node_modules.
+
+Make sure that your Docked Desktop is running.
+
+Than make image in your Docker by typing: "docker.compose up -d" in your project terminal.
+
+When your backend is running on Docker you can install modules here and run the project with: 
 
 ```bash
 npm run dev
